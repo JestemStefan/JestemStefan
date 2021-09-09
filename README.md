@@ -15,24 +15,24 @@ In free time I work on FOSS projects and collaborate in Game Jams :joystick:
 - 👯 I’m looking to collaborate on <b>Free and open source software</b>
 - 😄 Pronouns: <b>He/Him</b>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=JestemStefan&show_icons=true&count_private=true&theme=vision-friendly-dark"/>
-<img align width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JestemStefan&hide=batchfile,gap&theme=vision-friendly-dark" />
+# My stats 💪
 
+<img align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=JestemStefan&show_icons=true&count_private=true&theme=vision-friendly-dark"/>
+<img align width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JestemStefan&hide=batchfile,gap&theme=vision-friendly-dark" />
+
+## Technologies
 <img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
 <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
 
-<br />
 
 <img width="11%" src="https://img.shields.io/badge/GODOT-%23ffff.svg?style=for-the-badge&logo=godot-engine" />
 
-<br />
-<br />
+# My projects 🖥️
 
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=JestemStefan&repo=QMC_DataProcessor&theme=vision-friendly-dark"/>](https://github.com/JestemStefan/QMC_DataProcessor)
 
-## My social media
-<br />
+# Contact me at 📫
 
 [<img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" />](https://jestemstefan.itch.io/)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/bs-stasiak-bartosz)
@@ -40,12 +40,4 @@ In free time I work on FOSS projects and collaborate in Game Jams :joystick:
 [<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/JestemStefan)
 
 
-
-
-
-
-<img align="left" width="%" src="" />
-<img align="left" width="%" src="" />
-
-<img align="left" width="%" src="" />
 
