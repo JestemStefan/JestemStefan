@@ -17,8 +17,8 @@ In free time I work on FOSS projects and collaborate in Game Jams :joystick:
 
 # My stats 💪
 
-<img align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=JestemStefan&show_icons=true&count_private=true&theme=vision-friendly-dark"/>
-<img align width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JestemStefan&hide=batchfile,gap&theme=vision-friendly-dark" />
+[<img align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=JestemStefan&show_icons=true&count_private=true&theme=vision-friendly-dark"/>](https://github.com/anuraghazra/github-readme-stats)
+[<img align width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JestemStefan&hide=batchfile,gap&theme=vision-friendly-dark" />](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technologies
 <img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
