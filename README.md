@@ -32,6 +32,8 @@ In free time I work on FOSS projects and collaborate in Game Jams :joystick:
 
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=JestemStefan&repo=QMC_DataProcessor&theme=vision-friendly-dark"/>](https://github.com/JestemStefan/QMC_DataProcessor)
 
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/JestemStefan/QMC_DataProcessor.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/JestemStefan/QMC_DataProcessor/alerts/) [![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/JestemStefan/QMC_DataProcessor.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/JestemStefan/QMC_DataProcessor/context:python)
+
 # Contact me at 📫
 
 [<img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" />](https://jestemstefan.itch.io/)
