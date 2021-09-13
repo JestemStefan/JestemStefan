@@ -2,9 +2,9 @@
 
 <br />
 
-<b>I'm Scientist, Python Developer, Game Designer and FOSS contributor. </b>
+<b>I'm a Scientist, a Python Developer, a Game Designer and a FOSS contributor. </b>
 
-While spending most of my time in laboratory :scientist: I spend my evenings learning and coding :computer:
+While spending most of my time in laboratory :scientist: I work hard in the evenings learning and coding :computer:
 
 I feel best at the backend when I spend most of a time optimizing algorithms for this sweet sweet performance :fire:
 
