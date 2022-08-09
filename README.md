@@ -2,16 +2,16 @@
 
 <br />
 
-<b>I'm a Scientist, a Python Developer, a Game Designer and a FOSS contributor. </b>
+<b>I'm Django Developer, former Scientins, hobby Game Designer and a FOSS contributor. </b>
 
-While spending most of my time in laboratory :scientist: I work hard in the evenings learning and coding :computer:
+Currently, I’m working in an international team of developers on the multi-tenant payment platform backend built in the Django Rest Framework.
 
-I feel best at the backend when I spend most of a time optimizing algorithms for this sweet sweet performance :fire:
+My daily tasks consist of designing and developing new features using best programming practices, refactoring, debugging and of course learning.
 
 In free time I work on FOSS projects and collaborate in Game Jams :joystick: 
 
-- 🔭 I’m currently working on [<b>Data Processor for Quantum Mechanical Calculation </b>](https://github.com/JestemStefan/QMC_DataProcessor)
-- 🌱 I’m currently learning [<b>Python unittest module</b>](https://docs.python.org/3/library/unittest.html)
+- 🔭 I’m currently working on <b> Secret Personal Project </b> :innocent:
+- 🌱 I’m currently learning [<b>Dockerization of Django applications</b>](https://docs.docker.com/samples/django/) :whale:
 - 👯 I’m looking to collaborate on <b>Free and open source software</b>
 - 😄 Pronouns: <b>He/Him</b>
 
@@ -22,11 +22,11 @@ In free time I work on FOSS projects and collaborate in Game Jams :joystick:
 
 ## Technologies
 <img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img align="left" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
-
-
-<img width="11%" src="https://img.shields.io/badge/GODOT-%23ffff.svg?style=for-the-badge&logo=godot-engine" />
+<img align="left" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" />
+<img align="left" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+<b><b/>
+<img width="9%" src="https://img.shields.io/badge/GODOT-%23ffff.svg?style=for-the-badge&logo=godot-engine" />
 
 # My projects 🖥️
 
@@ -34,11 +34,14 @@ In free time I work on FOSS projects and collaborate in Game Jams :joystick:
 
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/JestemStefan/QMC_DataProcessor.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/JestemStefan/QMC_DataProcessor/alerts/) [![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/JestemStefan/QMC_DataProcessor.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/JestemStefan/QMC_DataProcessor/context:python)
 
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=JestemStefan&repo=DiceofDestiny&theme=vision-friendly-dark"/>](https://github.com/JestemStefan/DiceofDestiny)
+
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=JestemStefan&repo=GodotWildJam27-Booksmart&theme=vision-friendly-dark"/>](https://github.com/JestemStefan/GodotWildJam27-Booksmart)
+
 # Contact me at 📫
 
 [<img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" />](https://jestemstefan.itch.io/)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/bs-stasiak-bartosz)
-[<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />](https://twitter.com/StefanJestem)
 [<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/JestemStefan)
 
 
