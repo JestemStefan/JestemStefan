@@ -10,7 +10,7 @@ My daily tasks consist of designing and developing new features using best progr
 
 In free time I work on FOSS projects and collaborate in Game Jams :joystick: 
 
-- 🔭 I’m currently working on <b> Secret Personal Project </b> :innocent:
+- 🔭 I’m currently working on <b> integrating GooglePay payments using Moneris </b> 💰
 - 🌱 I’m currently learning [<b>Dockerization of Django applications</b>](https://docs.docker.com/samples/django/) :whale:
 - 👯 I’m looking to collaborate on <b>Free and open source software</b>
 - 😄 Pronouns: <b>He/Him</b>
