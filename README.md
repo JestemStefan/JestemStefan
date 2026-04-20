@@ -2,7 +2,7 @@
 
 <br />
 
-<b>I'm Django Developer, former Scientins, hobby Game Designer and a FOSS contributor. </b>
+<b>I'm Django Developer, former Scientist, hobby Game Designer and a FOSS contributor. </b>
 
 Currently, I’m working in an international team of developers on the multi-tenant payment platform backend built in the Django Rest Framework.
 
